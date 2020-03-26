@@ -4,3 +4,13 @@ pink
 blue
 yellow
 orange
+red
+pink
+blue
+black
+
+white
+
+
+
+
